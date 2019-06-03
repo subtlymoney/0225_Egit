@@ -1,3 +1,4 @@
 hello
 edit by remote
+edit by remote twice
 edit by local
